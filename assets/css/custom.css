@@ -1,0 +1,14 @@
+@import url('https://fonts.maateen.me/kalpurush/font.css');
+
+
+body {
+    font-family: 'Kalpurush', Arial, sans-serif !important;
+}
+
+:root{
+    --aqua-green: #67dcb2;
+}
+
+.header-area.two {
+    background-color: var(--aqua-green) !important;
+}
