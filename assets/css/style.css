@@ -779,7 +779,7 @@ button:focus {
 
 /*-- Counter --*/
 .counter-area {
-  background-image: url("../images/counter-bg.jpg");
+  background-image: url("../images/leader/banner/slider2.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -792,7 +792,7 @@ button:focus {
   height: 100%;
   top: 0;
   left: 0;
-  background-color: #F00041;
+  background-color: #000000;
   opacity: 0.65;
 }
 
@@ -1382,7 +1382,7 @@ button:focus {
 
 /*-- Footer --*/
 .footer-area {
-  background-image: url("../images/footer-bg.jpg");
+  background-image: url("../images/leader/footer_image.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -1753,7 +1753,7 @@ button:focus {
 /*-- Election --*/
 .election-area {
   text-align: center;
-  background-image: url("../images/election-bg.jpg");
+  background-image: url("../images/leader/banner/slider.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2444,7 +2444,7 @@ button:focus {
 
 /*----- About CSS -----*/
 .title-img-one {
-  background-image: url("../images/page-title/page-title-bg.jpg");
+ 
 }
 
 .page-title-area {

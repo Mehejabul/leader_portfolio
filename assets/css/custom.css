@@ -1,5 +1,33 @@
 @import url('https://fonts.maateen.me/kalpurush/font.css');
 
+/*==============
+    COMMON CSS
+===============*/
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
+
+
+a {
+    text-decoration: none;
+    display: inline-block;
+
+}
+
+ul,
+ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.clr {
+    clear: both;
+}
 
 body {
     font-family: 'Kalpurush', Arial, sans-serif !important;
@@ -7,8 +35,39 @@ body {
 
 :root{
     --aqua-green: #67dcb2;
+    --red:#C03D30;
+    --navy-blue:#182C4F;;
 }
+
+/* common css end */
 
 .header-area.two {
     background-color: var(--aqua-green) !important;
 }
+
+/* about title start */
+
+.about_section{
+  margin: 30px 0px;
+}
+.about-title{
+    text-align: center;
+}
+.red_title{
+ color: var(--red);
+}
+
+.tag_text{
+    color: var(--navy-blue);
+    font-size: 20px;
+}
+
+.cmn_about_pera{
+    margin: 15px 0px;
+}
+
+.pera_style h2{
+    color: var(--red);
+}
+
+/* abot title end */
